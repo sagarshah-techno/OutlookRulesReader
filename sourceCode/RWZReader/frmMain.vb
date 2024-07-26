@@ -1,6 +1,6 @@
 ﻿Option Strict On
 
-Imports Microsoft.Office.Interop
+Imports Microsoft.Office.Enterop
 
 Public Class frmMain
     Dim f As RulesObjects.RulesExportFile
